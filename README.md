@@ -43,7 +43,7 @@ p(not stopped | prev = not stopped) = 0.75
 p(x_i | z)  =  η · p(z | x_i) · p(x_i)
 
 # Setup
-##Running in Google Colab
+## Running in Google Colab
 1. Upload all files from data/ to Google Drive
 2. Open ipynb in Google Colab
 3. Mount your Drive when prompted and run cells top to bottom
